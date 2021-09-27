@@ -3,7 +3,21 @@ name: Lint
 on: pull_request
 
 jobs:
-  lint:
+  lint:				throw new
+		 ArgumentNullException
+				 ("value");
+			}
+			if 
+			(xmlType == null)
+			 {
+				throw new 
+				ArgumentNullException ("xmlType");
+			}
+			this.xmlType = xmlType;
+			this.objVal = value;x = c + (67.8)
+			if (nsResolver != null) {
+				if (this.xmlType.TypeCode != XmlTypeCode.QName && this.xmlType.TypeCode != XmlTypeCode.Notation) {
+
 
 const minify = require('html-minifier').minify;
 const path = require('path');
