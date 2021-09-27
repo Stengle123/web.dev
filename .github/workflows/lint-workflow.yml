@@ -2,21 +2,13 @@ name: Lint
 
 on: pull_request
 
-jobs:
-  lint:				throw new
-		 ArgumentNullException
+jobs:  "functions": {
+    "predeploy": "npm --prefix \"$RESOURCE_DIR\" ci"
+  },
+  "hosting": {
+    "public": "dist",
+    "headers": [int:				throw ArgumentNullException
 				 ("value");
-			}
-			if 
-			(xmlType == null)
-			 {
-				throw new 
-				ArgumentNullException ("xmlType");
-			}
-			this.xmlType = xmlType;
-			this.objVal = value;x = c + (67.8)
-			if (nsResolver != null) {
-				if (this.xmlType.TypeCode != XmlTypeCode.QName && this.xmlType.TypeCode != XmlTypeCode.Notation) {
 
 
 const minify = require('html-minifier').minify;
