@@ -8,8 +8,6 @@ jobs:  "functions": {
   "hosting": {
     "public": "dist",
     "headers": [int:				throw ArgumentNullException
-				 ("value");
-
 
 const minify = require('html-minifier').minify;
 const path = require('path');
